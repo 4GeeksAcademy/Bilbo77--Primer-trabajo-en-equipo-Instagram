@@ -1,0 +1,71 @@
+body {
+    background-color: black;
+    font-style: normal;
+    margin: 80px;
+    display: flex;
+	justify-content: center;
+}
+
+.main {
+    width: 40%;
+}
+
+.header {
+    background: white;
+    font-size: 15px;
+    height: 55px;
+    display: flex; 
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header h1 {
+        padding: 15px;
+}
+
+.fa-brands {
+    padding: 10px;
+    font-size: 30px;
+} 
+
+.ellipsis {
+    display: flex;
+    padding: 20px;
+    font-size: 40px;
+}
+ 
+.post {
+    width: auto;
+    overflow:hidden;
+ }
+
+.description{
+    background:white;
+    width:auto;
+    padding: 10px;
+    
+}
+
+.icons {
+   font-size: 30px;
+   margin: 10px;
+   margin-block-end: 20px;
+}
+
+.iconspack {
+    float: left;
+    width: 90%;
+}
+
+.iconalone {
+    float: right;
+    width: 5%;
+}
+
+.liked {
+    margin:  10px;
+    padding-top: 30px;
+}
+
+
+
